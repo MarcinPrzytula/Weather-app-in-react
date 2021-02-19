@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 Run App Live [GH Pages](https://marcinprzytula.github.io/Weather-app-in-react/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
